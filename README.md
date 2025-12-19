@@ -16,6 +16,6 @@ _Role: Backend Developer_
 - Final results: Scalable backend and geospatial database powering a user friendly interactive map for navigating county parks, trails, and greenways.  
 
 ## [Country GDP ETL Pipeline](https://github.com/geoffreycloud/3_ETL_GDP_Data)
-Brief overview: Built an ETL pipeline as part of a data engineering course to scrape country GDP data from Wikipedia, clean and transform the values from millions to billions (USD), and store the processed data for analysis and verification. The focus was placed on web scraping techniques, data transformation, and structured data loading.
-Technology used: _Python, Beautiful Soup, requests, pandas, SQLite, SQL_
-Final results: [Cleaned and transformed GDP dataset]()
+- Summary: Built an ETL pipeline as part of a data engineering course to scrape country GDP data from Wikipedia, clean and transform the values from millions to billions (USD), and store the processed data for analysis and verification. The focus was placed on web scraping techniques, data transformation, and structured data loading.
+- Technology used: _Python, Beautiful Soup, requests, pandas, SQLite, SQL_
+- Final results: [Cleaned and transformed GDP dataset](https://github.com/geoffreycloud/3_ETL_GDP_Data/blob/main/GDP_USD_Billions.csv)
