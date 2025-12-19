@@ -12,7 +12,7 @@ Hi there! Welcome to my still developing data engineering & analytics portfolio.
 ## [Charlotte Parks & Greenways](https://github.com/geoffreycloud/ITIS-6112-Term-Project-Group-2-main)
 _Role: Backend Developer_
 - Summary: Designed and implemented backend services for an interactive web application that visualizes publicly available parks and recreation data in Mecklenburg County, NC, enabling filtering, keyword search, and address radius queries. Focused on building reliable APIs and geospatial data workflows to support dynamic map interactions.
-- Technology used: JavaScript, Node.js, Express.js, PostgreSQL (PostGIS), ArcGIS REST Services
+- Technology used: _JavaScript, Node.js, Express.js, PostgreSQL (PostGIS), ArcGIS REST Services_
 - Final results: Scalable backend and geospatial database powering a user friendly interactive map for navigating county parks, trails, and greenways.  
 
 ## [Country GDP ETL Pipeline](https://github.com/geoffreycloud/3_ETL_GDP_Data)
